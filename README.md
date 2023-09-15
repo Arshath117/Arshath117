@@ -7,7 +7,6 @@
 - ☘️ I’m currently learning **working on Penetration testing**
 
 - 💬 Ask me about **Ethical hacking**
-
 - 📫 How to reach me **arshath170803@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
