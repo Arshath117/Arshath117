@@ -9,7 +9,6 @@
 - 💬 Ask me about **Ethical hacking**
 
 - 📫 How to reach me **arshath170803@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arshath_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arshath_17" height="30" width="40" /></a><br>
